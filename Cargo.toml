@@ -1,0 +1,4 @@
+[package]
+name = "trie"
+version = "0.1.0"
+authors = ["James Brown <roguelazer@roguelazer.com>"]
